@@ -1,0 +1,8 @@
+[15-Sep-2025 13:28:24 UTC] PHP Fatal error:  Uncaught Error: Undefined constant "_FILE_" in /home2/knowlpzn/public_html/test.php:2
+Stack trace:
+#0 {main}
+  thrown in /home2/knowlpzn/public_html/test.php on line 2
+[15-Sep-2025 13:28:39 UTC] PHP Fatal error:  Uncaught Error: Undefined constant "_FILE_" in /home2/knowlpzn/public_html/test.php:2
+Stack trace:
+#0 {main}
+  thrown in /home2/knowlpzn/public_html/test.php on line 2
